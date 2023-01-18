@@ -1,6 +1,6 @@
 title: Invocation of Wireshark Hacktool (wireshark.exe)
 id: 2afafd61-6aae-4df4-baed-139fa1f4c345
-status: test
+status: prod
 description: Detects process_creation of wireshark, detecting complete domain compromise.
 references:
     - 
